@@ -1,4 +1,4 @@
-# 0x0D. jQuery advanced
+# Cookies Local Storage
 
 ![html](https://images3.memedroid.com/images/UPLOADED111/5a7a7907b5f37.jpeg)
 
